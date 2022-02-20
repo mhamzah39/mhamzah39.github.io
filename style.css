@@ -1,0 +1,45 @@
+
+
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+
+
+#name {
+
+    background-color: black;
+    color: chartreuse;
+    text-align: center;
+
+}
+
+#hamzah
+{
+    width: 161;
+    height: 220;
+    border: 2px solid chartreuse;
+    border-radius: 7px;
+}
+
+#paragraph {
+    color: chartreuse;
+    margin-left: 24;
+    width: 591;
+    height: 200;
+    font-size: 22px;
+    text-align: center;
+}
+
+#contact {
+    color: chartreuse;
+    margin-left: 150;
+    height: 100;
+}
+
+.test{
+    display: flex;
+}
